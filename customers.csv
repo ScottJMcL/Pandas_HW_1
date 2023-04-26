@@ -1,11 +1,11 @@
 ,customer_id,renewal_nbr,terms_in_years,customer_tenure,ages,age_group,loyalty_age_group
-0,1089,5,1.0,5.0,21,Young Adult,Loyal Young Adult
-1,1081,3,1.0,3.0,67,Senior,Loyal Senior
-2,1065,4,0.5,2.0,34,Young Adult,New Young Adult
-3,1083,2,1.0,2.0,60,Adult,New Adult
-4,1060,4,1.0,4.0,61,Adult,Loyal Adult
-5,1000,8,1.0,8.0,35,Adult,Loyal Adult
-6,1071,1,0.5,0.5,35,Adult,New Adult
-7,1050,4,0.5,2.0,69,Senior,New Senior
-8,1095,3,0.5,1.5,44,Adult,New Adult
-9,1029,3,0.5,1.5,34,Young Adult,New Young Adult
+0,1042,6,0.5,3.0,29,Young Adult,Loyal Young Adult
+1,1057,1,0.5,0.5,29,Young Adult,New Young Adult
+2,1036,5,0.5,2.5,32,Young Adult,Loyal Young Adult
+3,1098,2,1.0,2.0,28,Young Adult,New Young Adult
+4,1059,7,1.0,7.0,48,Adult,Loyal Adult
+5,1058,4,0.5,2.0,40,Adult,New Adult
+6,1033,8,0.5,4.0,67,Senior,Loyal Senior
+7,1031,6,1.0,6.0,57,Adult,Loyal Adult
+8,1068,6,0.5,3.0,58,Adult,Loyal Adult
+9,1071,7,1.0,7.0,66,Senior,Loyal Senior
